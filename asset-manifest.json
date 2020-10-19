@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Change-Color/static/css/main.19ff8f19.chunk.css",
+    "main.js": "/Change-Color/static/js/main.dde998ca.chunk.js",
+    "main.js.map": "/Change-Color/static/js/main.dde998ca.chunk.js.map",
+    "runtime-main.js": "/Change-Color/static/js/runtime-main.aa06e2d5.js",
+    "runtime-main.js.map": "/Change-Color/static/js/runtime-main.aa06e2d5.js.map",
+    "static/js/2.e15fd202.chunk.js": "/Change-Color/static/js/2.e15fd202.chunk.js",
+    "static/js/2.e15fd202.chunk.js.map": "/Change-Color/static/js/2.e15fd202.chunk.js.map",
+    "index.html": "/Change-Color/index.html",
+    "precache-manifest.2e66a02a15ea0fb1d2258fef00b8b6cd.js": "/Change-Color/precache-manifest.2e66a02a15ea0fb1d2258fef00b8b6cd.js",
+    "service-worker.js": "/Change-Color/service-worker.js",
+    "static/css/main.19ff8f19.chunk.css.map": "/Change-Color/static/css/main.19ff8f19.chunk.css.map",
+    "static/js/2.e15fd202.chunk.js.LICENSE.txt": "/Change-Color/static/js/2.e15fd202.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa06e2d5.js",
+    "static/js/2.e15fd202.chunk.js",
+    "static/css/main.19ff8f19.chunk.css",
+    "static/js/main.dde998ca.chunk.js"
+  ]
+}
