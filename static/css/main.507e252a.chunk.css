@@ -1,0 +1,2 @@
+div{display:flex;flex-direction:column;justify-content:center;align-items:center;min-height:100vh;width:100%;transition:background .6s ease}button{color:#000;font-size:20px;font-weight:700;width:10%;height:40px;border-radius:10px 0 12px}@media (max-width:768px){.main-container,button{width:55%}}
+/*# sourceMappingURL=main.507e252a.chunk.css.map */

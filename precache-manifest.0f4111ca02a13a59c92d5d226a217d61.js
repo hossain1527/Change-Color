@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "939863ee6db14ada2316a2b7a74fd5a6",
+    "revision": "b1f1d758f228a2f2ee2f086946ce8fb3",
     "url": "/Change-Color/index.html"
   },
   {
-    "revision": "b3963987fe7ead3d53f4",
-    "url": "/Change-Color/static/css/main.19ff8f19.chunk.css"
+    "revision": "3b66e6382b12cd4579c7",
+    "url": "/Change-Color/static/css/main.507e252a.chunk.css"
   },
   {
     "revision": "108c0328c3f1ac9b27ad",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Change-Color/static/js/2.e15fd202.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3963987fe7ead3d53f4",
-    "url": "/Change-Color/static/js/main.dde998ca.chunk.js"
+    "revision": "3b66e6382b12cd4579c7",
+    "url": "/Change-Color/static/js/main.483595a7.chunk.js"
   },
   {
     "revision": "2c6fa7ce4c03b5e20524",
